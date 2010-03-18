@@ -1,0 +1,13 @@
+Package: PwrGSD
+Title: Power in a Group Sequential Design
+Version: 1.16
+Author: Grant Izmirlian
+Depends: survival
+Description: Tools the evaluation of interim analysis plans for sequentially
+ monitored trials on a survival endpoint; tools to construct efficacy and 
+ futility boundaries, for deriving power of a sequential design at a specified
+ alternative, template for evaluating the performance of candidate plans at a 
+ set of time varying alternatives.
+Maintainer: Grant Izmirlian <izmirlig@mail.nih.gov>
+License: GPL (>= 2)
+Packaged: Thu Apr  2 20:19:59 2009; izmirlig
